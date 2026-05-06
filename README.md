@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kefik-enti-how-are-you-to-female/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Kefik Enti – How Are You (to female)](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
